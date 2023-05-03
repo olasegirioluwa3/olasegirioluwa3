@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwafemi Olasegiri, a Programmer, Founder and Enterpreneur
 - 👀 I’m interested in start-ups, programming, web-development, and blockchain and AV/VR.
-- 🌱 I’m currently learning Fastifyjs
+- 🌱 I’m currently learning Fastifyjs to advance my existing knowlegde in Backend API development
 - 💞️ I’m looking to collaborate with on your start-up, tech entreprise, business.
 - 📫 How to reach me https://wa.me/qr/34ZZE5CEA6KHL1 or mail olasegirioluwafemi@gmail.com
 
